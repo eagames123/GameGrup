@@ -1,0 +1,4 @@
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.0\GameGrup.Core.csprojAssemblyReference.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.0\GameGrup.Core.AssemblyInfoInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.0\GameGrup.Core.AssemblyInfo.cs
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.0\GameGrup.Core.csproj.CoreCompileInputs.cache

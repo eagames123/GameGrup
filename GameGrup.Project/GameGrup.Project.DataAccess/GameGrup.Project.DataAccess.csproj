@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <UserSecretsId>9bbf09c1-9b81-405e-988b-88a8efc266f4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GameGrup.Core\GameGrup.Core.csproj" />
+    <ProjectReference Include="..\GameGrup.Project.Entities\GameGrup.Project.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

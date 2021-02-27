@@ -1,0 +1,9 @@
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\bin\Debug\netstandard2.0\GameGrup.Project.Business.deps.json
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\bin\Debug\netstandard2.0\GameGrup.Project.Business.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\bin\Debug\netstandard2.0\GameGrup.Project.Business.pdb
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\obj\Debug\netstandard2.0\GameGrup.Project.Business.csprojAssemblyReference.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\obj\Debug\netstandard2.0\GameGrup.Project.Business.AssemblyInfoInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\obj\Debug\netstandard2.0\GameGrup.Project.Business.AssemblyInfo.cs
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\obj\Debug\netstandard2.0\GameGrup.Project.Business.csproj.CoreCompileInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\obj\Debug\netstandard2.0\GameGrup.Project.Business.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Business\obj\Debug\netstandard2.0\GameGrup.Project.Business.pdb

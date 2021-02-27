@@ -1,0 +1,4 @@
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.0\GameGrup.Project.DataAccess.csprojAssemblyReference.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.0\GameGrup.Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.0\GameGrup.Project.DataAccess.AssemblyInfo.cs
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.0\GameGrup.Project.DataAccess.csproj.CoreCompileInputs.cache

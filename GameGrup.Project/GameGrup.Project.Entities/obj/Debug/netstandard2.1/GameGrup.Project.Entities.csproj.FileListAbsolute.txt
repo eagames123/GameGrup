@@ -1,0 +1,12 @@
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\bin\Debug\netstandard2.1\GameGrup.Project.Entities.deps.json
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\bin\Debug\netstandard2.1\GameGrup.Project.Entities.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\bin\Debug\netstandard2.1\GameGrup.Project.Entities.pdb
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\bin\Debug\netstandard2.1\GameGrup.Core.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\bin\Debug\netstandard2.1\GameGrup.Core.pdb
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\obj\Debug\netstandard2.1\GameGrup.Project.Entities.csprojAssemblyReference.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\obj\Debug\netstandard2.1\GameGrup.Project.Entities.AssemblyInfoInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\obj\Debug\netstandard2.1\GameGrup.Project.Entities.AssemblyInfo.cs
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\obj\Debug\netstandard2.1\GameGrup.Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\obj\Debug\netstandard2.1\GameGrup.Project.Entities.csproj.CopyComplete
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\obj\Debug\netstandard2.1\GameGrup.Project.Entities.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.Entities\obj\Debug\netstandard2.1\GameGrup.Project.Entities.pdb

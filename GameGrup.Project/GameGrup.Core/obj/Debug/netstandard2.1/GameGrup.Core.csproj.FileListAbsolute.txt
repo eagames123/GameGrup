@@ -1,0 +1,9 @@
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\bin\Debug\netstandard2.1\GameGrup.Core.deps.json
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\bin\Debug\netstandard2.1\GameGrup.Core.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\bin\Debug\netstandard2.1\GameGrup.Core.pdb
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.1\GameGrup.Core.csprojAssemblyReference.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.1\GameGrup.Core.AssemblyInfoInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.1\GameGrup.Core.AssemblyInfo.cs
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.1\GameGrup.Core.csproj.CoreCompileInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.1\GameGrup.Core.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Core\obj\Debug\netstandard2.1\GameGrup.Core.pdb

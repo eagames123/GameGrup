@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IheL5D6twJXPL0ACVFGbdNci4XVNLYXaoUjI0nIzZqNYnIGWVnUICy9EUJwg4xz5roI8bf/9KIL+2I+8VzjMxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nakres\\source\\repos\\GameGrup\\GameGrup.Project\\GameGrup.Project.Web.API\\GameGrup.Project.Web.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nakres\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nakres\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nakres\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\nakres\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\nakres\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\nakres\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

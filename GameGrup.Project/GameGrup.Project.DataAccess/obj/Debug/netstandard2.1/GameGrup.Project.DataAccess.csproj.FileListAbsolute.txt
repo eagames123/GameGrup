@@ -1,0 +1,14 @@
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\bin\Debug\netstandard2.1\GameGrup.Project.DataAccess.deps.json
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\bin\Debug\netstandard2.1\GameGrup.Project.DataAccess.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\bin\Debug\netstandard2.1\GameGrup.Project.DataAccess.pdb
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\bin\Debug\netstandard2.1\GameGrup.Core.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\bin\Debug\netstandard2.1\GameGrup.Project.Entities.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\bin\Debug\netstandard2.1\GameGrup.Core.pdb
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\bin\Debug\netstandard2.1\GameGrup.Project.Entities.pdb
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.1\GameGrup.Project.DataAccess.csprojAssemblyReference.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.1\GameGrup.Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.1\GameGrup.Project.DataAccess.AssemblyInfo.cs
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.1\GameGrup.Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.1\GameGrup.Project.DataAccess.csproj.CopyComplete
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.1\GameGrup.Project.DataAccess.dll
+C:\Users\nakres\source\repos\GameGrup\GameGrup.Project\GameGrup.Project.DataAccess\obj\Debug\netstandard2.1\GameGrup.Project.DataAccess.pdb
